@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The goal of __Pur__due __S__ystems and __S__oftware __S__ecurity Lab (PurS3) is to secure modern systems by providing principled yet practical solutions to various security problems.
+The goal of **Pur**due **S**ystems and **S**oftware **S**ecurity Lab (PurS3) is to secure modern systems by providing principled yet practical solutions to various security problems.
 
  **We are  looking for passionate new Ph.D students, Postdocs, interns, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
  
@@ -57,5 +57,5 @@ Our home is Purdue Univerisity, one of the leaders in security research and educ
 We are grateful for funding from DARPA.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/darpa.jpeg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/darpa.jpeg" style="width: 150px">
 </figure>

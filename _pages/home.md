@@ -48,7 +48,7 @@ The goal of **Pur**due **S**ystems and **S**oftware **S**ecurity Lab (PurS3) is 
 We work on all kinds of systems, including Mobile, IoT,  TrustZone, etc.
 Our research spans various areas such as Vulnerability detection and Mitigating, Secure system development, Hardware Security, Type-safe languages, Software Diversity, and, Rehosting, to name a few.
 
-Our home is Purdue Univerisity, one of the leaders in security research and education.
+Our home is Purdue Univerisity, one of the leaders in [security research](http://csrankings.org/#/index?sec) and education.
 
 We are grateful for funding from DARPA.
 

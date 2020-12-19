@@ -1,3 +1,10 @@
+- name: Antonio Bianchi
+  photo: antonio.png
+  info: Assistant Professor, Purdue University
+  email: antoniob@purdue.edu
+  number_educ: 1
+  education1: Ph.D, Computer Science, UC Santa Barbara
+  
 - name: Mayur Naik
   photo: mayur.jpg
   info: Professor and Graduate Chair, University of Pennsylvania

@@ -1,0 +1,13 @@
+- name: Mayur Naik
+  photo: mayur.jpg
+  info: Professor and Graduate Chair, University of Pennsylvania
+  email: mhnaik@cis.upenn.edu
+  number_educ: 1
+  education1: Ph.D, Computer Science, Stanford University
+
+- name: Michael Hicks
+  photo: mike.jpg
+  info: Professor, University of Maryland, College Park, MD
+  email: mwh@cs.umd.edu
+  number_educ: 1
+  education1: Ph.D, Computer Science, University of Pennsylvania

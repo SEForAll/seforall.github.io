@@ -3,7 +3,7 @@
   description:
   link:
     url: /files/absfuzz.pdf
-    display:CNS 2020:IEEE Conference on Communications and Network Security (CNS) (IEEE CNS 2020)
+    display: CNS 2020:IEEE Conference on Communications and Network Security (CNS) (IEEE CNS 2020)
   highlight: 0
   news2:
 
@@ -12,7 +12,7 @@
   description:
   link:
     url: /files/trust.io.pdf
-    display:CNS 2020:IEEE Conference on Communications and Network Security (CNS) (IEEE CNS 2020)
+    display: CNS 2020:IEEE Conference on Communications and Network Security (CNS) (IEEE CNS 2020)
   highlight: 0
   news2:
 
@@ -21,7 +21,7 @@
   description:
   link:
     url: /files/spider.pdf
-    display:S&P 2020: 41st IEEE Symposium on Security and Privacy. 
+    display: S&P 2020: 41st IEEE Symposium on Security and Privacy.
   highlight: 0
   news2:
 
@@ -30,7 +30,7 @@
   description:
   link:
     url: /files/karonte.pdf
-    display:S&P 2020: 41st IEEE Symposium on Security and Privacy. 
+    display: S&P 2020: 41st IEEE Symposium on Security and Privacy.
   highlight: 0
   news2:
 
@@ -39,7 +39,7 @@
   description:
   link:
     url: /files/secdevauto.pdf
-    display:SecDev 2019: IEEE Secure Development Conference. 
+    display: SecDev 2019: IEEE Secure Development Conference.
   highlight: 0
   news2:
 
@@ -48,7 +48,7 @@
   description:
   link:
     url: /files/pretender.pdf
-    display:RAID 2019: 22nd International Symposium on Research in Attacks, Intrusions and Defenses. 
+    display: RAID 2019: 22nd International Symposium on Research in Attacks, Intrusions and Defenses.
   highlight: 0
   news2:
 
@@ -57,7 +57,7 @@
   description:
   link:
     url: /files/bintrimmer.pdf
-    display:DIMVA 2019: 16th International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment. 
+    display: DIMVA 2019: 16th International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment.
   highlight: 0
   news2:
 
@@ -66,7 +66,7 @@
   description:
   link:
     url: /files/autofacts.pdf
-    display:BAR 2019: 2nd Binary Analysis Research Workshop. 
+    display: BAR 2019: 2nd Binary Analysis Research Workshop.
   highlight: 0
   news2:
 
@@ -75,7 +75,7 @@
   description:
   link:
     url: /files/loopmc.pdf
-    display: ACSAC 2018 : 34th Annual Application Security Application Conference 2018. 
+    display: ACSAC 2018 : 34th Annual Application Security Application Conference 2018.
   highlight: 0
   news2:
 
@@ -84,7 +84,7 @@
   description:
   link:
     url: /files/dls1.pdf
-    display: IEEE S&P DLS Workshop 2018 : 1st Deep Learning and Security Workshop, IEEE Security and Privacy. 
+    display: IEEE S&P DLS Workshop 2018 : 1st Deep Learning and Security Workshop, IEEE Security and Privacy.
   highlight: 0
   news2:
 
@@ -93,7 +93,7 @@
   description:
   link:
     url: /files/fingerpri.pdf
-    display: NDSS 2018 : Proceedings of the ISOC Network and Distributed System Security Symposium. 
+    display: NDSS 2018 : Proceedings of the ISOC Network and Distributed System Security Symposium.
   highlight: 0
   news2:
 
@@ -102,7 +102,7 @@
   description:
   link:
     url: https://media.ccc.de/v/34c3-9205-bootstomp_on_the_security_of_bootloaders_in_mobile_devices
-    display: 34C3 : Chaos Communication Congress 2017. 
+    display: 34C3 : Chaos Communication Congress 2017.
   highlight: 0
   news2:
 
@@ -111,7 +111,7 @@
   description:
   link:
     url: /files/difuze.pdf
-    display: CCS 2017 : Proceedings of the 24th ACM Conference on Computer and Communications Security. 
+    display: CCS 2017 : Proceedings of the 24th ACM Conference on Computer and Communications Security.
   highlight: 0
   news2:
 
@@ -120,7 +120,7 @@
   description:
   link:
     url: /files/sec17-machiry.pdf
-    display: USENIX Security 2017 : Proceedings of the 26th USENIX Security Symposium. 
+    display: USENIX Security 2017 : Proceedings of the 26th USENIX Security Symposium.
   highlight: 0
   news2:
 
@@ -129,7 +129,7 @@
   description:
   link:
     url: /files/sec17-redini.pdf
-    display: USENIX Security 2017 : Proceedings of the 26th USENIX Security Symposium. 
+    display: USENIX Security 2017 : Proceedings of the 26th USENIX Security Symposium.
   highlight: 0
   news2:
 
@@ -138,7 +138,7 @@
   description:
   link:
     url: /files/boom.pdf
-    display: NDSS 2017 : Proceedings of the ISOC Network and Distributed System Security Symposium. 
+    display: NDSS 2017 : Proceedings of the ISOC Network and Distributed System Security Symposium.
   highlight: 0
   news2:
 
@@ -147,7 +147,7 @@
   description:
   link:
     url: /files/ram.pdf
-    display: NDSS 2017 : Proceedings of the ISOC Network and Distributed System Security Symposium. 
+    display: NDSS 2017 : Proceedings of the ISOC Network and Distributed System Security Symposium.
   highlight: 0
   news2:
 
@@ -156,7 +156,7 @@
   description:
   link:
     url: /files/phrack2017.txt
-    display: PHRACK  
+    display: PHRACK
   highlight: 0
   news2:
 
@@ -165,7 +165,7 @@
   description:
   link:
     url: /files/clapp.pdf
-    display: FSE 2015 : ACM Symposium on Foundations of Software Engineering. 
+    display: FSE 2015 : ACM Symposium on Foundations of Software Engineering.
   highlight: 0
   news2:
 
@@ -174,7 +174,7 @@
   description:
   link:
     url: /files/demob.pdf
-    display: DeMobile 2015 : Proceedings of the International Workshop on Software Development Lifecycle for Mobile. 
+    display: DeMobile 2015 : Proceedings of the International Workshop on Software Development Lifecycle for Mobile.
   highlight: 0
   news2:
 
@@ -183,7 +183,7 @@
   description:
   link:
     url: /files/dd.pdf
-    display: FSE 2013 : ACM Symposium on Foundations of Software Engineering. 
+    display: FSE 2013 : ACM Symposium on Foundations of Software Engineering.
   highlight: 0
   news2:
 

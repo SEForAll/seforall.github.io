@@ -1,3 +1,12 @@
+- title: Conware - Automated Modeling of Hardware Peripherals
+  authors: C. Spensky, Aravind Machiry , N. Redini, C. Unger, G. Foster, E. Balsband, H. Okhravi, C. Kruegel and G. Vigna
+  description:
+  link:
+    url: /files/conware.pdf
+    display: Asia CCS 2021 - ACM ASIA Conference on Computer and Communications Security
+  highlight: 0
+  news2:
+  
 - title: Exploring Abstraction Functions in Fuzzing.
   authors: C. Salls,  Aravind Machiry , A. Doupe, Y. Shoshitaishvili, C. Kruegel, G. Vigna
   description:

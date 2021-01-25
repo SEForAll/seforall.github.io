@@ -1,3 +1,12 @@
+- title: DIANE- Identifying Fuzzing Triggers in Apps to Generate Under-constrained Inputs for IoT Devices.
+  authors: N. Redini, A. Continella, D. Das, G.De Pasquale, N. Spahn, Aravind Machiry, A. Bianchi, C. Kruegel, and G. Vigna 
+  description:
+  link:
+    url: /files/diane.pdf
+    display: S&P 2021- 42nd IEEE Symposium on Security and Privacy.
+  highlight: 0
+  news2:
+  
 - title: Conware - Automated Modeling of Hardware Peripherals
   authors: C. Spensky, Aravind Machiry , N. Redini, C. Unger, G. Foster, E. Balsband, H. Okhravi, C. Kruegel and G. Vigna
   description:

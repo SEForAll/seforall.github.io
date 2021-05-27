@@ -1,3 +1,21 @@
+- title: ARBITRAR - User-Guided API Misuse Detection.
+  authors: Z. Li, Aravind Machiry , B. Chen, M. Naik, K. Wang, L. Song
+  description:
+  link:
+    url: /files/arbitrar.pdf
+    display: S&P 2021- 42nd IEEE Symposium on Security and Privacy.
+  highlight: 0
+  news2:
+  
+- title: Glitching Demystified - Analyzing Control-flow-based Glitching Attacks and Defenses..
+  authors: C. Spensky, Aravind Machiry, N. Burow, H. Okhravi, R. Housley, Z. Gu, H. Jamjoom, C. Kruegel and G. Vigna 
+  description:
+  link:
+    url: /files/glitchresistor.pdf
+    display: DSN 2021 - 51st International Conference on Dependable Systems and Networks.
+  highlight: 0
+  news2:
+  
 - title: DIANE - Identifying Fuzzing Triggers in Apps to Generate Under-constrained Inputs for IoT Devices.
   authors: N. Redini, A. Continella, D. Das, G.De Pasquale, N. Spahn, Aravind Machiry, A. Bianchi, C. Kruegel, and G. Vigna 
   description:

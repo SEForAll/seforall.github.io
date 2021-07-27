@@ -1,7 +1,7 @@
 ---
-title: "PurS3 Lab - Publications"
+title: "SEFL Team - Publications"
 layout: gridlay
-excerpt: "PurS3 Lab -- Publications."
+excerpt: "SEFL Team -- Publications."
 sitemap: false
 permalink: /publications/
 ---

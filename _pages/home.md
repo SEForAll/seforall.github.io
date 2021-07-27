@@ -1,14 +1,14 @@
 ---
-title: "PurS3 Lab - Home"
+title: "Security Education For All (SEFL) - Home"
 layout: homelay
-excerpt: "PurS3 Lab at Purdue University."
+excerpt: "SEFL Lab at Purdue University."
 sitemap: false
 permalink: /
 ---
 
-The goal of **Pur**due **S**ystems and **S**oftware **S**ecurity Lab (PurS3) is to secure modern systems by providing principled yet practical solutions to various security problems.
+The goal of **S**ecurity **E**ducation **F**or **A**ll VIP group (SEFL) is to integrate security education into programming courses. Specifically, we focus on developing frameworks and infrastructure to use existing security tools in the curriculum.
 
- **We are  looking for passionate new Ph.D students, Postdocs, interns, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are looking for excited undergraduate students good at coding (especially python and C/C++) and passionate about security, and willing to develop tools and techniques to help integrate security education into courses.**
  
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -45,15 +45,7 @@ The goal of **Pur**due **S**ystems and **S**oftware **S**ecurity Lab (PurS3) is 
   </a>
 </div>
 
-We work on all kinds of systems, including Mobile, IoT,  TrustZone, etc.
-Our research spans various areas such as Vulnerability detection and Mitigating, Secure system development, Hardware Security, Type-safe languages, Software Diversity, and, Rehosting, to name a few.
-
-We hold a [weekly reading group](https://purs3lab.github.io/reading-group/), where we read both academic and non-academic articles related to various topics related to Computer Security.
+We work on dynamic (e.g., AFL) and static (e.g., CodeQL) analysis techniques to find vulnerabilities.
+We also work on automated teaching environment such as GitHub classroom, Google classroom, etc.
 
 Our home is Purdue Univerisity, one of the leaders in [security research](http://csrankings.org/#/index?sec) and education.
-
-We are grateful for funding from DARPA.
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/darpa.jpeg" style="width: 150px">
-</figure>

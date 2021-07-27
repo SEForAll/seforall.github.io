@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "PurS3 Lab at Purdue University."
+excerpt: "SEFL Team at Purdue University."
 sitemap: false
 permalink: /allnews.html
 ---

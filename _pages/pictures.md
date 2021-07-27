@@ -1,7 +1,7 @@
 ---
-title: "PurS3 Lab - Pictures"
+title: "SEFL Team - Pictures"
 layout: piclay
-excerpt: "PurS3 Lab -- Pictures"
+excerpt: "SEFL Team -- Pictures"
 permalink: /pictures/
 ---
 

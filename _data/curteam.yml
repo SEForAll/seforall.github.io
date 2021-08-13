@@ -1,0 +1,22 @@
+- name: Jack Myers
+  photo: jack.jpeg
+  info: General Leader and AFL expert.
+  email: myers395@purdue.edu
+  number_educ: 1
+  education1: Leader.
+
+- name: Leila Yanni
+  photo: leila.png
+  info: Co-Leader and GitHub Classroom expert.
+  email: lyanni@purdue.edu
+  number_educ: 2
+  education1: AFL Team Leader.
+  education2: Co-Leader.
+
+- name: Shan Huang
+  photo: shan.jpeg
+  info: In house expert of everything!
+  email: huan1372@purdue.edu
+  number_educ: 2
+  education1: Exploratory research team leader.
+  education2: Know all of the SEFA group.

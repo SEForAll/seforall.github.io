@@ -1,12 +1,12 @@
 ---
-title: "Security Education For All (SEFL) - Home"
+title: "Security Education For All (SEFA) - Home"
 layout: homelay
-excerpt: "SEFL Lab at Purdue University."
+excerpt: "SEFA Lab at Purdue University."
 sitemap: false
 permalink: /
 ---
 
-The goal of **S**ecurity **E**ducation **F**or **A**ll VIP group (SEFL) is to integrate security education into programming courses. Specifically, we focus on developing frameworks and infrastructure to use existing security tools in the curriculum.
+The goal of **S**ecurity **E**ducation **F**or **A**ll VIP group (SEFA) is to integrate security education into programming courses. Specifically, we focus on developing frameworks and infrastructure to use existing security tools in the curriculum.
 
 **We are looking for excited undergraduate students good at coding (especially python and C/C++) and passionate about security, and willing to develop tools and techniques to help integrate security education into courses.**
  

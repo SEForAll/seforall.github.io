@@ -1,7 +1,7 @@
 ---
-title: "PurS3 Lab - Team"
+title: "SEFA Team"
 layout: gridlay
-excerpt: "PurS3 Lab: Team members"
+excerpt: "SEFA: Team members"
 sitemap: false
 permalink: /team/
 ---

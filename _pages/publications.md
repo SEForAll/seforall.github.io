@@ -1,7 +1,7 @@
 ---
-title: "SEFL Team - Publications"
+title: "SEFA Team - Publications"
 layout: gridlay
-excerpt: "SEFL Team -- Publications."
+excerpt: "SEFA Team -- Publications."
 sitemap: false
 permalink: /publications/
 ---

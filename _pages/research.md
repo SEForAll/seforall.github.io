@@ -1,14 +1,14 @@
 ---
-title: "SEFL Team - Research"
+title: "SEFA Team - Research"
 layout: textlay
-excerpt: "SEFL Team -- Research"
+excerpt: "SEFA Team -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-The goal of SEFL team is to integrate security education into programming courses. To do so, we find new ways to use tools in programming courses in a plug-and-play manner. We also find novel ways to teach security concepts.
+The goal of SEFA team is to integrate security education into programming courses. To do so, we find new ways to use tools in programming courses in a plug-and-play manner. We also find novel ways to teach security concepts.
 We are interested in all programming courses: Beginner, Intermediate, and, Advanced.
 
 We strongly believe in diversity and aim to be a diverse group with members from different backgrounds.

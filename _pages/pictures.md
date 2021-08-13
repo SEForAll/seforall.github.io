@@ -1,7 +1,7 @@
 ---
-title: "SEFL Team - Pictures"
+title: "SEFA Team - Pictures"
 layout: piclay
-excerpt: "SEFL Team -- Pictures"
+excerpt: "SEFA Team -- Pictures"
 permalink: /pictures/
 ---
 

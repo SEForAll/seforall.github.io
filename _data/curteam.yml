@@ -7,12 +7,19 @@
 
 - name: Leila Yanni
   photo: leila.png
-  info: Co-Leader and GitHub Classroom expert.
+  info: Co-Leader and GitHub expert.
   email: lyanni@purdue.edu
   number_educ: 2
   education1: AFL Team Leader.
   education2: Co-Leader.
 
+- name: Alex Gieson
+  photo: alex.png
+  info: GitHub Classroom and automated grading expert.
+  email: agieson@purdue.edu
+  number_educ: 1
+  education1: Deployment Team Leader.
+  
 - name: Shan Huang
   photo: shan.jpeg
   info: In house expert of everything!

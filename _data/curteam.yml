@@ -1,29 +1,13 @@
-- name: Jack Myers
-  photo: jack.jpeg
-  info: General Leader and AFL expert.
-  email: myers395@purdue.edu
+- name: Venkata Akhil Guntur
+  photo: vakhil.jpeg
+  info: General Leader and Scripting expert.
+  email: vguntur@purdue.edu
   number_educ: 1
-  education1: Leader.
+  education1: M.S, Electronics and Communication Engineering, Purdue University.
 
-- name: Leila Yanni
-  photo: leila.png
+- name: Daniyaal Rasheed
+  photo: daniel.jpeg
   info: Co-Leader and GitHub expert.
-  email: lyanni@purdue.edu
-  number_educ: 2
-  education1: AFL Team Leader.
-  education2: Co-Leader.
-
-- name: Alex Gieson
-  photo: alex.png
-  info: GitHub Classroom and automated grading expert.
-  email: agieson@purdue.edu
+  email: drasheed@purdue.edu
   number_educ: 1
-  education1: Deployment Team Leader.
-  
-- name: Shan Huang
-  photo: shan.jpeg
-  info: In house expert of everything!
-  email: huan1372@purdue.edu
-  number_educ: 2
-  education1: Exploratory research team leader.
-  education2: Know all of the SEFA group.
+  education1: Undergraduate, Electronics and Communication Engineering, Purdue University.
